@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+#score{
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 10px;
+    padding-left: 30px;
+    font-family: 'Cursed Timer ULiL';
+
+}/* home-score */
+#score2{
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 10px;
+    padding-left: 30px;
+    font-family: 'Cursed Timer ULiL';
+
+}/* home-score */
+
+
+
