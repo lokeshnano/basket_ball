@@ -16,3 +16,15 @@ function inc2()
     initscore2.innerText = count_2
     console.log("clicked")
 }
+
+
+
+let initscore3 = document.getElementById("score2")
+
+let count_3 = 0
+function inc3()
+{
+    count_3 += 2
+    initscore3.innerText = count_3
+    console.log("clicked")
+}
